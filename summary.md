@@ -2,7 +2,7 @@
 
 ## Use headings to create page groups like this one​
 
-* [Introduction](ConvexOptimization/README.md)
+* [Introduction](ConvexOptimization/Intro.md)
     * [Basics](ConvexOptimization/0aBasics.md)
     * [Optimization Algorithms](ConvexOptimization/0bOptimizationAlgos.md)
 
